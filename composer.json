@@ -1,0 +1,14 @@
+{
+    "name": "yoweli/yoscaffold",
+    "description": "This package will scaffold laravel app files",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoweli Kachala",
+            "email": "yowelikachala@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
